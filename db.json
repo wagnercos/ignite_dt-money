@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "value": 4000,
+      "createdAt": "2023-04-13T00:11:27.024Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizzaria",
+      "type": "outcome",
+      "category": "Laser",
+      "value": 280,
+      "createdAt": "2023-04-13T00:11:27.024Z"
+    },
+    {
+      "description": "Aluguel",
+      "value": 1500,
+      "category": "moradia",
+      "type": "income",
+      "createdAt": "2023-04-14T09:43:53.958Z",
+      "id": 3
+    },
+    {
+      "category": "Alimentação",
+      "description": "Marmita",
+      "type": "outcome",
+      "value": 15,
+      "createdAt": "2023-04-14T10:10:32.929Z",
+      "id": 4
+    }
+  ]
+}
